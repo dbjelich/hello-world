@@ -1,2 +1,5 @@
 # hello-world
-Repository for general learning of new material
+
+Hello Humans!
+
+I just came from the moon where the tacos are superior to yours.
